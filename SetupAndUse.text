@@ -1,0 +1,6 @@
+Step 1 - import browserRoutes and QueryClient in main.tsx file 
+Step 2 - import tailwindcss in vite.config.ts file
+Step 3 - write content on index.css file 
+Step 4 - setup routes in App.tsx file
+Step 5 - setup backend in supabase-client.ts + .env + AuthContext.tsx file
+Step 6 - 
